@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 대충살자
 - ⚡ Fun fact: Приятно ми е да се запознаем.
 
-## My apps - English Language Learning 
-
+## My apps 
+- English Language Learning 
 
 1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/7d8f6e352c2b6a17f3575a0c87ec1aac1fbf24f9/Word_Cloud_Generator.ipynb) Word Cloud Generator
 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/7d8f6e352c2b6a17f3575a0c87ec1aac1fbf24f9/%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%EC%96%B4%ED%94%8C.ipynb) 어휘 받아쓰기 (빈도수 3,2,1)
