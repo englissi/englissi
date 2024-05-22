@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 - Multi-Language Learning
 
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/b9dd1bc7b43ac022432275422b45cf1715596f66/%ED%95%9C%EB%B6%88%EC%98%81%EC%98%81%EB%9F%AC_text_to_speech.ipynb)
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/b9dd1bc7b43ac022432275422b45cf1715596f66/%ED%95%9C%EB%B6%88%EC%98%81%EC%98%81%EB%9F%AC_text_to_speech.ipynb) 한영영불러 text-to-speech 
