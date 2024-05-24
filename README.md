@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 9. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/dfc75b1ab383a9a89f687611040a024a7e714072/Listening_Cloze_Test.ipynb) Listening Cloze Test
 10. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/1ab4ac864761bc641d5376c56f123a8a808309c0/%EC%A3%BC%EA%B4%80%EC%8B%9D%EB%AC%B8%EC%A0%9C.ipynb) 주관식 리딩 퀴즈
 11. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/97df0b124413b6f24f7e65f7cdbc994b1fbdc29c/Image_sentence_matching.ipynb) 이미지-문장 매칭 퀴즈
-12. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/3a8136e9aacd6f9794efcee41bebf18ad1fe89cb/%EB%B0%9C%EC%9D%8C%ED%8F%89%EA%B0%80%EA%B8%B0.ipynb) 원어민발음평가기
-13. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/d7c35e8c26f2a783e75bb5fc2c48de2e415ca671/%EC%9D%BC%EC%83%81_%EB%8C%80%ED%99%94%EB%AC%B8_%EB%B0%9C%EC%9D%8C%EC%97%B0%EC%8A%B5.ipynb) 대화문 롤플레이/발음평가
+   
 
 - Multi-Language Learning
 
 1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/b9dd1bc7b43ac022432275422b45cf1715596f66/%ED%95%9C%EB%B6%88%EC%98%81%EC%98%81%EB%9F%AC_text_to_speech.ipynb) 한영영불러 text-to-speech
-2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/63a1960cf3b48a18f70d1149d4a3937fc9fecbc2/%ED%95%9C%EA%B5%AD%EC%96%B4%EB%B0%9C%EC%9D%8C%ED%8F%89%EA%B0%80%EA%B8%B0.ipynb) 한국어발음평가 
+  
