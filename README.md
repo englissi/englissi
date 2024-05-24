@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 
 - Multi-Language Learning
 
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/b9dd1bc7b43ac022432275422b45cf1715596f66/%ED%95%9C%EB%B6%88%EC%98%81%EC%98%81%EB%9F%AC_text_to_speech.ipynb) 한영영불러 text-to-speech 
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/b9dd1bc7b43ac022432275422b45cf1715596f66/%ED%95%9C%EB%B6%88%EC%98%81%EC%98%81%EB%9F%AC_text_to_speech.ipynb) 한영영불러 text-to-speech
+2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/63a1960cf3b48a18f70d1149d4a3937fc9fecbc2/%ED%95%9C%EA%B5%AD%EC%96%B4%EB%B0%9C%EC%9D%8C%ED%8F%89%EA%B0%80%EA%B8%B0.ipynb) 한국어발음평가 
