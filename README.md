@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 
 ## Try my apps here! 
 
-- 🌱 English to TTS - http://englissi-mytts.hf.space
-- 🌱 My pronunciation - http://englissi-mypronunciation.hf.space
-- 🌱 QR generator - http://englissi-qrgenerator.hf.space
-- 🌱 Word Cloud generator - http://englissi-wordcloud.hf.space
-
-
+- 🌱 [English to TTS](http://englissi-mytts.hf.space)
+- 🌱 [My pronunciation](http://englissi-mypronunciation.hf.space)
+- 🌱 [QR generator](http://englissi-qrgenerator.hf.space)
+- 🌱 [Word Cloud generator](http://englissi-wordcloud.hf.space)
 
 
