@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing
 - 📫 How to reach me: katya0153@gmail.com
 - 😄 Pronouns: 대충살자
-- ⚡ Fun fact: was an intern at the Embassy of ROK in Bulgaria, Worked at Samsung Techwin, gained 30kg after giving birth.
+- ⚡ Fun fact: was an intern at the Embassy of ROK in Bulgaria, Worked at Samsung Techwin, gained 30kg after giving birth, love traveling. 
   
 ## Try my apps here! 
 
