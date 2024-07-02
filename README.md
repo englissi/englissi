@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 🌱 [QR generator](http://englissi-qrgenerator.hf.space)
 - 🌱 [Word Cloud generator](http://englissi-wordcloud.hf.space)
 - 🌱 [Grammar Checker](http://englissi-grammarchecker.hf.space)
+- 🌱 [PDF summarizer](http://englissi-pdfsummarizer.hf.space)
 - 
