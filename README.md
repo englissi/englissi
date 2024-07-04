@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 [Word Cloud generator](http://englissi-wordcloud.hf.space)
 - 🌱 [Grammar Checker](http://englissi-grammarchecker.hf.space)
 - 🌱 [Article summarizer](http://englissi-pdfsummarizer.hf.space)
-- 
+- 🌱 [Voice clon](https://huggingface.co/spaces/englissi/Voice-Clone-Multilingual)
