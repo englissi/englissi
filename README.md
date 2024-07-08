@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 🌱 [Grammar Checker](http://englissi-grammarchecker.hf.space)
 - 🌱 [Article summarizer](http://englissi-pdfsummarizer.hf.space)
 - 🌱 [Voice clon](https://huggingface.co/spaces/englissi/Voice-Clone-Multilingual)
+- 🌱 [Thesis assistant](https://huggingface.co/spaces/englissi/thesisassist)
