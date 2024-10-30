@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 🌱 [Voice clon](https://huggingface.co/spaces/englissi/Voice-Clone-Multilingual)
 - 🌱 [Thesis assistant](https://huggingface.co/spaces/englissi/thesisassist)
 - 🌱 [English Diary](https://store.wrtn.ai/store/details/64afa66bee824064352c1858)
-- 🌱 [다중음성복제](https://huggingface.co/spaces/englissi/Voice-Clone-Multilingual)
