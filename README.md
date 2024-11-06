@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 🌱 [Thesis assistant](https://huggingface.co/spaces/englissi/thesisassist)
 - 🌱 [English Diary](https://store.wrtn.ai/store/details/64afa66bee824064352c1858)
 - 🌱 [Korean to TTS](https://huggingface.co/spaces/englissi/kr)
+- 🌱 [Lotterypicker](http://englissi-lotterypicker.hf.space)
