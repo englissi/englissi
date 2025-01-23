@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 - 🌱 [Bulgarian to TTS](https://huggingface.co/spaces/englissi/bgtts)
 
+[**Russian**]
+
+- 🌱 [Russian to TTS](https://huggingface.co/spaces/englissi/rutts)
+
 [**Korean**]
 
 - 🌱 [Korean to TTS](https://huggingface.co/spaces/englissi/kr)
