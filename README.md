@@ -13,14 +13,29 @@ Here are some ideas to get you started:
   
 ## Try my apps here! 
 
+[**English**]
+
 - 🌱 [English to TTS](http://englissi-mytts.hf.space)
 - 🌱 [My pronunciation](http://englissi-mypronunciation.hf.space)
+- 🌱 [Grammar Checker](http://englissi-grammarchecker.hf.space)
+- 🌱 [English Diary](https://store.wrtn.ai/store/details/64afa66bee824064352c1858)
+
+[**Bulgarian**]
+
+- 🌱 [Bulgarian to TTS](https://huggingface.co/spaces/englissi/bgtts)
+
+[**Korean**]
+
+- 🌱 [Korean to TTS](https://huggingface.co/spaces/englissi/kr)
+
+[**Learning Tools**]
+ 
 - 🌱 [QR generator](http://englissi-qrgenerator.hf.space)
 - 🌱 [Word Cloud generator](http://englissi-wordcloud.hf.space)
-- 🌱 [Grammar Checker](http://englissi-grammarchecker.hf.space)
 - 🌱 [Article summarizer](http://englissi-pdfsummarizer.hf.space)
 - 🌱 [Voice clon](https://huggingface.co/spaces/englissi/Voice-Clone-Multilingual)
 - 🌱 [Thesis assistant](https://huggingface.co/spaces/englissi/thesisassist)
-- 🌱 [English Diary](https://store.wrtn.ai/store/details/64afa66bee824064352c1858)
-- 🌱 [Korean to TTS](https://huggingface.co/spaces/englissi/kr)
+
+[**Life tools**] 
+
 - 🌱 [Lotterypicker](http://englissi-lotterypicker.hf.space)
