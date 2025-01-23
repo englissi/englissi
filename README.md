@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - 🌱 [Article summarizer](http://englissi-pdfsummarizer.hf.space)
 - 🌱 [Voice clon](https://huggingface.co/spaces/englissi/Voice-Clone-Multilingual)
 - 🌱 [Thesis assistant](https://huggingface.co/spaces/englissi/thesisassist)
+- 🌱 [MultiTTS](https://huggingface.co/spaces/englissi/multitts)
 
 [**Life tools**] 
 
