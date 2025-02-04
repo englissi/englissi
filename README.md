@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 [My pronunciation](http://englissi-mypronunciation.hf.space)
 - 🌱 [Grammar Checker](http://englissi-grammarchecker.hf.space)
 - 🌱 [English Diary](https://store.wrtn.ai/store/details/64afa66bee824064352c1858)
+- 🌱 [Dialogue TTS generator] (http://englissi-engdialogue.hf.space)
 
 [**Bulgarian**]
 
