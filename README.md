@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🌱 [Grammar Checker](http://englissi-grammarchecker.hf.space)
 - 🌱 [English Diary](https://store.wrtn.ai/store/details/64afa66bee824064352c1858)
 - 🌱 [Dialogue TTS generator](http://englissi-engdialogue.hf.space)
+- 🌱 [English Stories for EFL beginners](http://englissi-englishstories.hf.space)
 
 [**Bulgarian**]
 
