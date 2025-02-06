@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 - 🌱 [645 Lotterypicker](http://englissi-lotterypicker.hf.space)
 - 🌱 [645 New Lotterypicker](http://englissi-newlotterypicker.hf.space)
 - 🌱 [645 Lotterychecker](http://englissi-lottery.hf.space)
-- 🌱 [720 Pension lottery](http://englissi-lottery.hf.space)
+- 🌱 [720 Pension lottery](http://englissi-pensionlottery.hf.space)
